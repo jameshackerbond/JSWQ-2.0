@@ -1,7 +1,6 @@
 # JSWQ-2.0
 Upgraded from JSWQ 1.0/Like 2bored2wait but in exe/bat and you can change it to any server you want
 
-#Setting it up
 Setting it up is diffent from the old one because this is an program instend of .bat files
 Just run the JSWQ.ink/exe and it will do it for you
 then type "end" in the proxy console and "stop" in the queue console
